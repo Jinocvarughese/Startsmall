@@ -20,10 +20,10 @@ body{
 }
 
 .navbar__logo{
-    width:100%;
+    width:70%;
 }
 
-.navbar__item{
+.nav__item{
   background-image: linear-gradient(
       to right,
       #ff512f 0%,
@@ -55,8 +55,8 @@ body{
         width: 150px;
     }
 
-    .navbar__item{
-        padding: 20px;
-        font-size: 20px;
+    .nav__item{
+        padding: 10px;
+        font-size: 15px;
     }
 }
